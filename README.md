@@ -1,4 +1,18 @@
-Task 3 – Multi-Service Architecture on AWS (Frontend + Backend) 
+CLOUD COMPUTING
+
+COMPANY : CODTECH IT SOLUTIONS
+
+NAME : R ROHIT
+
+INTERN ID : CT06DG1575
+
+DOMAIN : CLOUD
+
+DURATION : 6WEEKS
+
+MENTOR : Neela Santhosh Kumar
+
+DESCRIPTION OF TASK :-> Task 3 – Multi-Service Architecture on AWS (Frontend + Backend) 
  **2 AWS services**:
 - A **Frontend website** using Amazon S3
 - A **Backend API** using EC2 (with Python Flask)
